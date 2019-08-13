@@ -15,3 +15,4 @@ springboot结合https
     keystore 表示生成的密钥存放位置。
     validity 表示密钥的有效时间，单位为天。
 ```
+###生成后，将秘钥文件放到resources目录下即可。
